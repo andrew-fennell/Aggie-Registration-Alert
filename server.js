@@ -20,7 +20,7 @@ app.use(bodyParser.json());
 // DB Config
 // Connect to MongoDB
 
-db = "mongodb+srv://zchen:tamuaggies@cluster0.x3jpo.mongodb.net/aggiealert?retryWrites=true&w=majority"
+db = "mongodb+srv://afennell:Chicken1@cluster0.adlhr.mongodb.net/<dbname>?retryWrites=true&w=majority"
 
 mongoose
   .connect(
